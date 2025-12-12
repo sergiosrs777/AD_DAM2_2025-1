@@ -11,6 +11,8 @@
         <input type="number" name="numero1"/>
         <label>número 2:</label>
         <input type="number" name="numero2"/>
+        <label>número 3:</label>
+        <input type="number" name="numero3"/>
         <br/>
         <input type="submit" value="dame"/>
     </form> 
